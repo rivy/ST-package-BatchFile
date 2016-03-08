@@ -1,0 +1,18 @@
+{
+	"schema_version": "2.0",
+	"packages":
+	[
+		{
+			"name": "Batch File",
+			"details": "https://github.com/rivy/ST-package-BatchFile",
+			"labels": [ "language syntax", "syntax highlight", "BAT", "CMD" ],
+			"releases":
+			[
+				{
+					"sublime_text": "*",
+					"details": "https://github.com/rivy/ST-package-BatchFile/tree/master"
+				}
+			]
+		}
+	]
+}
